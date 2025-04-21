@@ -125,4 +125,4 @@ if __name__ == "__main__":
     export_to_csv(data, "mosende_relationships.csv")
 
     # Launch Streamlit if needed
-    # run_web_app()
+    run_web_app()
